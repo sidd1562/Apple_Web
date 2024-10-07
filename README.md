@@ -4,10 +4,10 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 
 
-<a href="url"><img src="" align="left" height="408" width="408" ></a>
+
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/348484c5-24f9-4ca2-b1f4-6d3cc52362ff" width="400" height="800">
+<img src="https://github.com/user-attachments/assets/348484c5-24f9-4ca2-b1f4-6d3cc52362ff" width="500" height="1000">
 </p>
 
 
